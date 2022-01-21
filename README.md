@@ -1,2 +1,2 @@
 # JuniorFinam
- PHP, ReactJS, SQL
+ PHP, ReactJS
